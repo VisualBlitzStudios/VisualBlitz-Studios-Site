@@ -1,0 +1,57 @@
+
+/* Website Backround (Color) */
+body{
+  background-color: #000000ea;
+}
+
+/* Text Color */
+body{
+  color: white 
+
+}
+
+h1 {text-align: center;}
+
+h2 {text-align: center;}
+
+p1 {text-align: left;}
+
+h1 {
+  font-size: 90px;
+}
+
+p {
+  font-size: 20px;
+}
+
+p1 {
+  font-size: 10px;
+}
+
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+p5 {
+  font-size: 30px;
+  text-decoration: bold;
+}
+
+p6 {
+  font-size: 20px;
+  text-decoration: bold;
+}
+
+p7 {
+  font-size: 25px;
+}
